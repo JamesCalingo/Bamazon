@@ -1,0 +1,25 @@
+{
+  "name": "Bamazon",
+  "version": "1.0.0",
+  "description": "Bamazon - a node application that uses a MySQL database to simulate making transactions on Amazon.com",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesCalingo/Bamazon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamesCalingo/Bamazon/issues"
+  },
+  "homepage": "https://github.com/JamesCalingo/Bamazon#readme",
+  "dependencies": {
+    "dotenv": "^7.0.0",
+    "inquirer": "^6.3.1",
+    "mysql": "^2.17.1"
+  }
+}
